@@ -19,5 +19,5 @@ class Lab0_Demo {
 }
 
 statinc int main{
-    binaryDecimal()
+    binaryDecimal()!!!;
 }
