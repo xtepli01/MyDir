@@ -1,0 +1,14 @@
+C:\MyDir\Programming, Algorithms\cs\c#\projects\Lab5\bin\Debug\net8.0\Lab5.exe
+C:\MyDir\Programming, Algorithms\cs\c#\projects\Lab5\bin\Debug\net8.0\Lab5.deps.json
+C:\MyDir\Programming, Algorithms\cs\c#\projects\Lab5\bin\Debug\net8.0\Lab5.runtimeconfig.json
+C:\MyDir\Programming, Algorithms\cs\c#\projects\Lab5\bin\Debug\net8.0\Lab5.dll
+C:\MyDir\Programming, Algorithms\cs\c#\projects\Lab5\bin\Debug\net8.0\Lab5.pdb
+C:\MyDir\Programming, Algorithms\cs\c#\projects\Lab5\obj\Debug\net8.0\Lab5.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyDir\Programming, Algorithms\cs\c#\projects\Lab5\obj\Debug\net8.0\Lab5.AssemblyInfoInputs.cache
+C:\MyDir\Programming, Algorithms\cs\c#\projects\Lab5\obj\Debug\net8.0\Lab5.AssemblyInfo.cs
+C:\MyDir\Programming, Algorithms\cs\c#\projects\Lab5\obj\Debug\net8.0\Lab5.csproj.CoreCompileInputs.cache
+C:\MyDir\Programming, Algorithms\cs\c#\projects\Lab5\obj\Debug\net8.0\Lab5.dll
+C:\MyDir\Programming, Algorithms\cs\c#\projects\Lab5\obj\Debug\net8.0\refint\Lab5.dll
+C:\MyDir\Programming, Algorithms\cs\c#\projects\Lab5\obj\Debug\net8.0\Lab5.pdb
+C:\MyDir\Programming, Algorithms\cs\c#\projects\Lab5\obj\Debug\net8.0\Lab5.genruntimeconfig.cache
+C:\MyDir\Programming, Algorithms\cs\c#\projects\Lab5\obj\Debug\net8.0\ref\Lab5.dll
